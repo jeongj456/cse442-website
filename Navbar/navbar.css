@@ -1,0 +1,45 @@
+/* Hamburger Menu Icon */
+.hamburger-menu {
+    position: fixed;
+    top: 25px;
+    left: 20px;
+    z-index: 1001;
+    cursor: pointer;
+}
+
+.hamburger-menu i {
+    font-size: 30px;
+    color: #000; /* Change color of hamburger icon if needed */
+}
+
+/* Navigation Menu (Hidden by Default) */
+.nav-menu {
+    font-size: 16px;
+    display: none; /* Hidden by default */
+    position: absolute;
+    top: 50px;
+    left: 20px;
+    background-color: #333;
+    padding: 10px;
+    border-radius: 5px;
+    width: 200px;
+    z-index: 1001; /* Ensure it appears above other content */
+    font-family: 'Josefin Sans';
+}
+
+.nav-menu a {
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    display: block; /* Display links in a vertical stack */
+}
+
+.nav-menu a:hover {
+    background-color: #555;
+}
+
+.hamburger-menu .nav-menu {
+    display: none;
+  }
+
+  

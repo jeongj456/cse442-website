@@ -1,0 +1,1102 @@
+[03-Nov-2024 11:20:27 America/New_York] POST request received.
+[03-Nov-2024 11:20:27 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 11:20:27 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 11:20:27 America/New_York] Invalid input data
+[03-Nov-2024 11:26:23 America/New_York] POST request received.
+[03-Nov-2024 11:26:23 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 11:26:23 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 11:26:23 America/New_York] Invalid input data
+[03-Nov-2024 11:26:24 America/New_York] POST request received.
+[03-Nov-2024 11:26:24 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 11:26:24 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 11:26:24 America/New_York] Invalid input data
+[03-Nov-2024 11:26:26 America/New_York] POST request received.
+[03-Nov-2024 11:26:26 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 11:26:26 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 11:26:26 America/New_York] Invalid input data
+[03-Nov-2024 11:26:32 America/New_York] POST request received.
+[03-Nov-2024 11:26:32 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 11:26:32 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 11:26:32 America/New_York] Invalid input data
+[03-Nov-2024 11:26:32 America/New_York] POST request received.
+[03-Nov-2024 11:26:32 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 11:26:32 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 11:26:32 America/New_York] Invalid input data
+[03-Nov-2024 11:26:35 America/New_York] POST request received.
+[03-Nov-2024 11:26:35 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 11:26:35 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 11:26:35 America/New_York] Invalid input data
+[03-Nov-2024 11:37:26 America/New_York] POST request received.
+[03-Nov-2024 11:37:26 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 11:37:26 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 11:37:26 America/New_York] Invalid input data
+[03-Nov-2024 11:37:28 America/New_York] POST request received.
+[03-Nov-2024 11:37:28 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 11:37:28 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 11:37:28 America/New_York] Invalid input data
+[03-Nov-2024 11:37:29 America/New_York] POST request received.
+[03-Nov-2024 11:37:29 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 11:37:29 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 11:37:29 America/New_York] Invalid input data
+[03-Nov-2024 11:37:30 America/New_York] POST request received.
+[03-Nov-2024 11:37:30 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 11:37:30 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 11:37:30 America/New_York] Invalid input data
+[03-Nov-2024 11:37:52 America/New_York] POST request received.
+[03-Nov-2024 11:37:52 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 11:37:52 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 11:37:52 America/New_York] Invalid input data
+[03-Nov-2024 11:46:35 America/New_York] POST request received.
+[03-Nov-2024 11:46:35 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 11:46:35 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 11:46:35 America/New_York] Invalid input data
+[03-Nov-2024 11:46:37 America/New_York] POST request received.
+[03-Nov-2024 11:46:37 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 11:46:37 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 11:46:37 America/New_York] Invalid input data
+[03-Nov-2024 11:46:38 America/New_York] POST request received.
+[03-Nov-2024 11:46:38 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 11:46:38 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 11:46:38 America/New_York] Invalid input data
+[03-Nov-2024 11:46:39 America/New_York] POST request received.
+[03-Nov-2024 11:46:39 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 11:46:39 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 11:46:39 America/New_York] Invalid input data
+[03-Nov-2024 11:46:41 America/New_York] POST request received.
+[03-Nov-2024 11:46:41 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 11:46:41 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 11:46:41 America/New_York] Invalid input data
+[03-Nov-2024 11:46:41 America/New_York] POST request received.
+[03-Nov-2024 11:46:41 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 11:46:41 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 11:46:41 America/New_York] Invalid input data
+[03-Nov-2024 11:47:56 America/New_York] POST request received.
+[03-Nov-2024 11:47:56 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 11:47:56 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 11:47:56 America/New_York] Invalid input data
+[03-Nov-2024 11:48:42 America/New_York] POST request received.
+[03-Nov-2024 11:48:42 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 11:48:42 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 11:48:42 America/New_York] Invalid input data
+[03-Nov-2024 12:50:36 America/New_York] POST request received.
+[03-Nov-2024 12:50:36 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:50:36 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:50:36 America/New_York] Invalid input data
+[03-Nov-2024 12:50:38 America/New_York] POST request received.
+[03-Nov-2024 12:50:38 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:50:38 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:50:38 America/New_York] Invalid input data
+[03-Nov-2024 12:50:39 America/New_York] POST request received.
+[03-Nov-2024 12:50:39 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:50:39 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:50:39 America/New_York] Invalid input data
+[03-Nov-2024 12:51:24 America/New_York] POST request received.
+[03-Nov-2024 12:51:24 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:51:24 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:51:24 America/New_York] Invalid input data
+[03-Nov-2024 12:51:24 America/New_York] POST request received.
+[03-Nov-2024 12:51:24 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:51:24 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:51:24 America/New_York] Invalid input data
+[03-Nov-2024 12:51:27 America/New_York] POST request received.
+[03-Nov-2024 12:51:27 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:51:27 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:51:27 America/New_York] Invalid input data
+[03-Nov-2024 12:51:41 America/New_York] POST request received.
+[03-Nov-2024 12:51:41 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:51:41 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:51:41 America/New_York] Invalid input data
+[03-Nov-2024 12:51:41 America/New_York] POST request received.
+[03-Nov-2024 12:51:41 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:51:41 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:51:41 America/New_York] Invalid input data
+[03-Nov-2024 12:51:43 America/New_York] POST request received.
+[03-Nov-2024 12:51:43 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:51:43 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:51:43 America/New_York] Invalid input data
+[03-Nov-2024 12:53:28 America/New_York] PHP Warning:  Undefined variable $responseData in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 16
+[03-Nov-2024 12:53:28 America/New_York] PHP Warning:  Undefined variable $responseData in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 16
+[03-Nov-2024 12:53:28 America/New_York] PHP Warning:  Undefined variable $responseData in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 16
+[03-Nov-2024 12:53:28 America/New_York] PHP Warning:  Undefined variable $responseData in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 16
+[03-Nov-2024 12:53:30 America/New_York] PHP Warning:  Undefined variable $responseData in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 16
+[03-Nov-2024 12:53:30 America/New_York] PHP Warning:  Undefined variable $responseData in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 16
+[03-Nov-2024 12:53:34 America/New_York] POST request received.
+[03-Nov-2024 12:53:34 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:53:34 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:53:34 America/New_York] Invalid input data
+[03-Nov-2024 12:53:34 America/New_York] PHP Warning:  Undefined variable $responseData in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 16
+[03-Nov-2024 12:53:35 America/New_York] POST request received.
+[03-Nov-2024 12:53:35 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:53:35 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:53:35 America/New_York] Invalid input data
+[03-Nov-2024 12:53:35 America/New_York] PHP Warning:  Undefined variable $responseData in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 16
+[03-Nov-2024 12:53:36 America/New_York] POST request received.
+[03-Nov-2024 12:53:36 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:53:36 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:53:36 America/New_York] Invalid input data
+[03-Nov-2024 12:53:36 America/New_York] PHP Warning:  Undefined variable $responseData in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 16
+[03-Nov-2024 12:53:57 America/New_York] PHP Warning:  Undefined variable $responseData in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 356
+[03-Nov-2024 12:53:57 America/New_York] PHP Warning:  Undefined variable $responseData in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 356
+[03-Nov-2024 12:54:00 America/New_York] POST request received.
+[03-Nov-2024 12:54:00 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:54:00 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:54:00 America/New_York] Invalid input data
+[03-Nov-2024 12:54:00 America/New_York] PHP Warning:  Undefined variable $responseData in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 356
+[03-Nov-2024 12:54:01 America/New_York] POST request received.
+[03-Nov-2024 12:54:01 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:54:01 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:54:01 America/New_York] Invalid input data
+[03-Nov-2024 12:54:01 America/New_York] PHP Warning:  Undefined variable $responseData in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 356
+[03-Nov-2024 12:54:01 America/New_York] POST request received.
+[03-Nov-2024 12:54:01 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:54:01 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:54:01 America/New_York] Invalid input data
+[03-Nov-2024 12:54:01 America/New_York] PHP Warning:  Undefined variable $responseData in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 356
+[03-Nov-2024 12:54:21 America/New_York] PHP Warning:  Undefined variable $responseData in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 356
+[03-Nov-2024 12:54:49 America/New_York] PHP Warning:  Undefined variable $responseData in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 356
+[03-Nov-2024 12:54:49 America/New_York] PHP Warning:  Undefined variable $responseData in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 356
+[03-Nov-2024 12:54:50 America/New_York] PHP Warning:  Undefined variable $responseData in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 356
+[03-Nov-2024 12:54:50 America/New_York] PHP Warning:  Undefined variable $responseData in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 356
+[03-Nov-2024 12:54:51 America/New_York] POST request received.
+[03-Nov-2024 12:54:51 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:54:51 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:54:51 America/New_York] Invalid input data
+[03-Nov-2024 12:54:51 America/New_York] PHP Warning:  Undefined variable $responseData in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 356
+[03-Nov-2024 12:54:52 America/New_York] POST request received.
+[03-Nov-2024 12:54:52 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:54:52 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:54:52 America/New_York] Invalid input data
+[03-Nov-2024 12:54:52 America/New_York] PHP Warning:  Undefined variable $responseData in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 356
+[03-Nov-2024 12:54:53 America/New_York] POST request received.
+[03-Nov-2024 12:54:53 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:54:53 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:54:53 America/New_York] Invalid input data
+[03-Nov-2024 12:54:53 America/New_York] PHP Warning:  Undefined variable $responseData in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 356
+[03-Nov-2024 12:55:17 America/New_York] POST request received.
+[03-Nov-2024 12:55:17 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:55:17 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:55:17 America/New_York] Invalid input data
+[03-Nov-2024 12:55:18 America/New_York] POST request received.
+[03-Nov-2024 12:55:18 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:55:18 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:55:18 America/New_York] Invalid input data
+[03-Nov-2024 12:55:18 America/New_York] POST request received.
+[03-Nov-2024 12:55:18 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:55:18 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:55:18 America/New_York] Invalid input data
+[03-Nov-2024 12:59:35 America/New_York] POST request received.
+[03-Nov-2024 12:59:35 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:59:35 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:59:35 America/New_York] Invalid input data
+[03-Nov-2024 12:59:37 America/New_York] POST request received.
+[03-Nov-2024 12:59:37 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:59:37 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:59:37 America/New_York] Invalid input data
+[03-Nov-2024 12:59:37 America/New_York] POST request received.
+[03-Nov-2024 12:59:37 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:59:37 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 12:59:37 America/New_York] Invalid input data
+[03-Nov-2024 13:29:32 America/New_York] Action: 1 Week
+[03-Nov-2024 17:11:05 America/New_York] POST request received.
+[03-Nov-2024 17:11:05 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 17:11:05 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 17:11:05 America/New_York] Invalid input data
+[03-Nov-2024 17:11:06 America/New_York] POST request received.
+[03-Nov-2024 17:11:06 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 17:11:06 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 17:11:06 America/New_York] Invalid input data
+[03-Nov-2024 17:11:07 America/New_York] POST request received.
+[03-Nov-2024 17:11:07 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 17:11:07 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 17:11:07 America/New_York] Invalid input data
+[03-Nov-2024 17:12:02 America/New_York] POST request received.
+[03-Nov-2024 17:12:02 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 17:12:02 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 17:12:02 America/New_York] Invalid input data
+[03-Nov-2024 17:12:03 America/New_York] POST request received.
+[03-Nov-2024 17:12:03 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 17:12:03 America/New_York] PHP Warning:  Undefined array key "csrf_token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 311
+[03-Nov-2024 17:12:03 America/New_York] Invalid input data
+[03-Nov-2024 18:30:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function UserEmailFromID() in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php:16
+Stack trace:
+#0 /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php(301): AccumulatedDataFromUser()
+#1 {main}
+  thrown in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 16
+[03-Nov-2024 18:30:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function UserEmailFromID() in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php:310
+Stack trace:
+#0 {main}
+  thrown in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 310
+[03-Nov-2024 18:35:14 America/New_York] POST request received.
+[03-Nov-2024 18:35:14 America/New_York] Invalid input data
+[03-Nov-2024 18:35:15 America/New_York] POST request received.
+[03-Nov-2024 18:35:15 America/New_York] Invalid input data
+[03-Nov-2024 18:36:23 America/New_York] POST request received.
+[03-Nov-2024 18:36:23 America/New_York] Invalid input data
+[03-Nov-2024 18:36:26 America/New_York] POST request received.
+[03-Nov-2024 18:36:26 America/New_York] Invalid input data
+[03-Nov-2024 18:36:26 America/New_York] POST request received.
+[03-Nov-2024 18:36:26 America/New_York] Invalid input data
+[03-Nov-2024 18:36:31 America/New_York] POST request received.
+[03-Nov-2024 18:36:31 America/New_York] Invalid input data
+[03-Nov-2024 18:37:25 America/New_York] POST request received.
+[03-Nov-2024 18:37:25 America/New_York] Invalid input data
+[03-Nov-2024 18:46:28 America/New_York] POST request received.
+[03-Nov-2024 18:46:28 America/New_York] Invalid input data
+[03-Nov-2024 20:51:17 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 264
+[03-Nov-2024 20:51:17 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 272
+[03-Nov-2024 20:52:02 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 264
+[03-Nov-2024 20:52:02 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 272
+[03-Nov-2024 20:52:06 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 264
+[03-Nov-2024 20:52:06 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 272
+[04-Nov-2024 06:55:06 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 06:55:06 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 06:55:06 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 06:55:34 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 06:55:34 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 06:55:34 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 06:56:36 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 06:56:36 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 06:56:36 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 06:56:37 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 06:56:37 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 06:56:37 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 06:56:44 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 06:56:44 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 06:56:44 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 06:57:33 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 06:57:33 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 06:57:33 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 06:58:28 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 06:58:28 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 06:58:28 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 06:58:29 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 06:58:29 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 06:58:29 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 06:58:49 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 06:58:49 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 06:58:49 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 06:58:50 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 584
+[04-Nov-2024 06:58:50 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 477
+[04-Nov-2024 06:58:50 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 485
+[04-Nov-2024 06:58:51 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 06:58:51 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 06:58:51 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 06:59:29 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 06:59:29 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 06:59:29 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 06:59:34 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 06:59:34 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 06:59:34 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 06:59:34 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 06:59:34 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 06:59:34 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 06:59:54 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 06:59:54 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 06:59:54 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 06:59:55 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 06:59:55 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 06:59:55 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 06:59:55 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 06:59:55 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 06:59:55 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 12:12:43 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 12:12:43 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 12:12:43 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 12:12:44 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 12:12:44 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 12:12:44 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 12:12:45 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 12:12:45 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 12:12:45 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 12:12:45 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 12:12:45 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 12:12:45 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 12:12:48 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 12:12:48 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 12:12:48 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 12:12:49 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 584
+[04-Nov-2024 12:12:49 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 477
+[04-Nov-2024 12:12:49 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 485
+[04-Nov-2024 12:12:49 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 12:12:49 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 12:12:49 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 12:13:39 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 12:13:39 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 12:13:39 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 12:14:29 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 12:14:29 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 12:14:29 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:16:41 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:16:41 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:16:41 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:17:53 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:17:53 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:17:53 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:17:53 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:17:53 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:17:53 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:17:53 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:17:53 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:17:53 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:17:53 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:17:53 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:17:53 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:17:53 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:17:53 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:17:53 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:17:53 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:17:53 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:17:53 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:17:54 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:17:54 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:17:54 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:17:54 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:17:54 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:17:54 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:17:54 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:17:54 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:17:54 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:17:54 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:17:54 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:17:54 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:17:54 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:17:54 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:17:54 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:17:54 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:17:54 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:17:54 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:17:54 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:17:54 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:17:54 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:17:54 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:17:54 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:17:54 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:18:09 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:18:09 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:18:09 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:18:21 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:18:21 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:18:21 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:18:43 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:18:43 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:18:43 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:18:43 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:18:43 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:18:43 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:18:44 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:18:44 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:18:44 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:18:44 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:18:44 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:18:44 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:18:55 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:18:55 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:18:55 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:18:55 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:18:55 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:18:55 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:18:55 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:18:55 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:18:55 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:18:58 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:18:58 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:18:58 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:18:58 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:18:58 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:18:58 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:18:58 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:18:58 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:18:58 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:18:58 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:18:58 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:18:58 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:18:59 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:18:59 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:18:59 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:18:59 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:18:59 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:18:59 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:18:59 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:18:59 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:18:59 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:18:59 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:18:59 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:18:59 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:18:59 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:18:59 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:18:59 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:18:59 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:18:59 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:18:59 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:19:30 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 584
+[04-Nov-2024 14:19:30 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 477
+[04-Nov-2024 14:19:30 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 485
+[04-Nov-2024 14:19:31 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:19:31 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:19:31 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:19:31 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 584
+[04-Nov-2024 14:19:31 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 477
+[04-Nov-2024 14:19:31 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 485
+[04-Nov-2024 14:19:31 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:19:31 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:19:31 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:19:44 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:19:44 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:19:44 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:19:44 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:19:44 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:19:44 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:19:45 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:19:45 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:19:45 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:21:11 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:21:11 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:21:11 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:21:11 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:21:11 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:21:11 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:21:11 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:21:11 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:21:11 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:21:12 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:21:12 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:21:12 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:21:12 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:21:12 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:21:12 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:21:12 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:21:12 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:21:12 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:21:12 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:21:12 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:21:12 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:21:12 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:21:12 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:21:12 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:22:38 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:22:38 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:22:38 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:22:39 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:22:39 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:22:39 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:22:39 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:22:39 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:22:39 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:22:39 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:22:39 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:22:39 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:23:01 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:23:01 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:23:01 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:23:35 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:23:35 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:23:35 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:23:38 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 584
+[04-Nov-2024 14:23:38 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 477
+[04-Nov-2024 14:23:38 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 485
+[04-Nov-2024 14:23:39 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:23:39 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:23:39 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:25:34 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:25:34 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:25:34 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:25:34 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:25:34 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:25:34 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:25:34 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 566
+[04-Nov-2024 14:25:34 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 290
+[04-Nov-2024 14:25:34 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 298
+[04-Nov-2024 14:26:04 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 14:26:04 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 14:26:04 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 14:26:46 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 14:26:46 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 14:26:46 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 14:26:46 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 14:26:46 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 14:26:46 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 14:26:48 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 581
+[04-Nov-2024 14:26:48 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 474
+[04-Nov-2024 14:26:48 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 482
+[04-Nov-2024 14:26:48 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 14:26:48 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 14:26:48 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 14:30:40 America/New_York] PHP Warning:  Undefined array key "Authentication_Token" in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 557
+[04-Nov-2024 14:30:52 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 14:30:52 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 14:30:52 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 14:30:56 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 14:30:56 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 14:30:56 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:02:44 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:02:44 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:02:44 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:02:55 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 581
+[04-Nov-2024 16:02:55 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 474
+[04-Nov-2024 16:02:55 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 482
+[04-Nov-2024 16:02:56 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:02:56 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:02:56 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:03:44 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:03:44 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:03:44 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:03:45 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:03:45 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:03:45 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:03:51 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:03:51 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:03:51 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:04:47 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:04:47 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:04:47 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:05:15 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:05:15 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:05:15 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:05:17 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 581
+[04-Nov-2024 16:05:17 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 474
+[04-Nov-2024 16:05:17 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 482
+[04-Nov-2024 16:05:18 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:05:18 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:05:18 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:05:18 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 581
+[04-Nov-2024 16:05:18 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 474
+[04-Nov-2024 16:05:18 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 482
+[04-Nov-2024 16:05:19 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 581
+[04-Nov-2024 16:05:19 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 474
+[04-Nov-2024 16:05:19 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 482
+[04-Nov-2024 16:05:19 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:05:19 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:05:19 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:05:19 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 581
+[04-Nov-2024 16:05:19 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 474
+[04-Nov-2024 16:05:19 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 482
+[04-Nov-2024 16:05:20 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:05:20 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:05:20 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:05:20 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 581
+[04-Nov-2024 16:05:20 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 474
+[04-Nov-2024 16:05:20 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 482
+[04-Nov-2024 16:05:20 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:05:20 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:05:20 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:05:20 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 581
+[04-Nov-2024 16:05:20 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 474
+[04-Nov-2024 16:05:20 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 482
+[04-Nov-2024 16:05:21 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:05:21 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:05:21 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:05:21 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 581
+[04-Nov-2024 16:05:21 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 474
+[04-Nov-2024 16:05:21 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 482
+[04-Nov-2024 16:07:05 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:07:05 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:07:05 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:07:06 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:07:06 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:07:06 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:07:06 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:07:06 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:07:06 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:07:19 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:07:19 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:07:19 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:07:21 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:07:21 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:07:21 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:07:31 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:07:31 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:07:31 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:09:43 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:09:43 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:09:43 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:09:47 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:09:47 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:09:47 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:09:47 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:09:47 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:09:47 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:09:47 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:09:47 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:09:47 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:09:47 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:09:47 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:09:47 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:09:48 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:09:48 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:09:48 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:09:49 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:09:49 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:09:49 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:09:50 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:09:50 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:09:50 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:09:50 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:09:50 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:09:50 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:09:50 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:09:50 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:09:50 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:09:50 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:09:50 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:09:50 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:09:53 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 581
+[04-Nov-2024 16:09:53 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 474
+[04-Nov-2024 16:09:53 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 482
+[04-Nov-2024 16:09:53 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:09:53 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:09:53 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:09:59 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:09:59 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:09:59 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:10:08 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:10:08 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:10:08 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:10:18 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:10:18 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:10:18 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:10:22 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:10:22 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:10:22 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:10:23 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:10:23 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:10:23 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:11:17 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:11:17 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:11:17 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:12:08 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:12:08 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:12:08 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:12:10 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 581
+[04-Nov-2024 16:12:10 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 474
+[04-Nov-2024 16:12:10 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 482
+[04-Nov-2024 16:12:11 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:12:11 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:12:11 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:12:12 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 581
+[04-Nov-2024 16:12:12 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 474
+[04-Nov-2024 16:12:12 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 482
+[04-Nov-2024 16:12:12 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 581
+[04-Nov-2024 16:12:12 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 474
+[04-Nov-2024 16:12:12 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 482
+[04-Nov-2024 16:12:13 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 581
+[04-Nov-2024 16:12:13 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 474
+[04-Nov-2024 16:12:13 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 482
+[04-Nov-2024 16:12:21 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:12:21 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:12:21 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:12:41 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:12:41 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:12:41 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:13:36 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:13:36 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:13:36 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:13:44 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:13:44 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:13:44 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:13:55 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:13:55 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:13:55 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:13:57 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 581
+[04-Nov-2024 16:13:57 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 474
+[04-Nov-2024 16:13:57 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 482
+[04-Nov-2024 16:13:57 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:13:57 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:13:57 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:13:58 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 581
+[04-Nov-2024 16:13:58 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 474
+[04-Nov-2024 16:13:58 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 482
+[04-Nov-2024 16:13:58 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 581
+[04-Nov-2024 16:13:58 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 474
+[04-Nov-2024 16:13:58 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 482
+[04-Nov-2024 16:13:58 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 581
+[04-Nov-2024 16:13:58 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 474
+[04-Nov-2024 16:13:58 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 482
+[04-Nov-2024 16:13:58 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 581
+[04-Nov-2024 16:13:58 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 474
+[04-Nov-2024 16:13:58 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 482
+[04-Nov-2024 16:13:58 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 581
+[04-Nov-2024 16:13:58 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 474
+[04-Nov-2024 16:13:58 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 482
+[04-Nov-2024 16:13:59 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:13:59 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:13:59 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:13:59 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:13:59 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:13:59 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:14:00 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:14:00 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:14:00 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:14:00 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:14:00 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:14:00 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:14:02 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:14:02 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:14:02 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:14:08 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:14:08 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:14:08 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:14:11 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 581
+[04-Nov-2024 16:14:11 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 474
+[04-Nov-2024 16:14:11 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 482
+[04-Nov-2024 16:14:12 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:14:12 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:14:12 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:22:46 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 19
+[04-Nov-2024 16:22:46 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 20
+[04-Nov-2024 16:22:46 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 19
+[04-Nov-2024 16:22:46 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 20
+[04-Nov-2024 16:22:47 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 19
+[04-Nov-2024 16:22:47 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 20
+[04-Nov-2024 16:22:47 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 19
+[04-Nov-2024 16:22:47 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 20
+[04-Nov-2024 16:22:51 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 19
+[04-Nov-2024 16:22:51 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 20
+[04-Nov-2024 16:22:51 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 19
+[04-Nov-2024 16:22:51 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 20
+[04-Nov-2024 16:23:13 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 19
+[04-Nov-2024 16:23:13 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 20
+[04-Nov-2024 16:23:13 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 19
+[04-Nov-2024 16:23:13 America/New_York] PHP Warning:  Undefined array key "HTTP_X_CSRF_TOKEN" in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 20
+[04-Nov-2024 16:25:18 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:25:18 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:25:18 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:25:18 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:25:18 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:25:18 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:25:19 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:25:19 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:25:20 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:25:20 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:25:28 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:25:28 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:25:34 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:25:34 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:25:54 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:25:54 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:26:10 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:26:10 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:26:23 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:26:23 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:27:28 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:27:28 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:27:28 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:27:28 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:27:28 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:28:26 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:28:26 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:28:26 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:28:26 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:28:26 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:28:26 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:28:26 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:28:26 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:28:26 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:28:26 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:28:27 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:28:27 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:28:27 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:28:27 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:28:27 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:28:28 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:28:28 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:28:28 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:28:28 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:28:28 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:28:29 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:28:29 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:28:29 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:28:29 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:28:29 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:28:39 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:28:39 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:28:39 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:28:39 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:28:39 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:29:13 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:29:13 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:29:14 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:29:14 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:29:14 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:29:14 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:29:27 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:29:27 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:31:11 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:31:11 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:31:12 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:31:12 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:31:12 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 563
+[04-Nov-2024 16:31:12 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:31:12 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:32:25 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:32:25 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 596
+[04-Nov-2024 16:32:25 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:32:25 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 564
+[04-Nov-2024 16:32:25 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:32:25 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:32:25 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 596
+[04-Nov-2024 16:32:38 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:32:38 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 564
+[04-Nov-2024 16:32:38 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:32:38 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:32:38 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 596
+[04-Nov-2024 16:32:38 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:32:38 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 596
+[04-Nov-2024 16:33:10 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:33:10 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 564
+[04-Nov-2024 16:33:10 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 287
+[04-Nov-2024 16:33:10 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 295
+[04-Nov-2024 16:33:10 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:40:45 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:40:45 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:40:45 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:40:45 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:40:45 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:40:45 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:40:46 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:40:46 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:40:46 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:40:46 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:40:46 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:40:46 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:40:46 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:40:46 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /data/web/CSE442/2024-Fall/cse-442m/Workout_History/WorkoutHistory_BackEnd.php on line 221
+[04-Nov-2024 16:43:34 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 569
+[04-Nov-2024 16:43:34 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 293
+[04-Nov-2024 16:43:34 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 301
+[04-Nov-2024 16:43:34 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "session_destroy" in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php:573
+Stack trace:
+#0 {main}
+  thrown in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 573
+[04-Nov-2024 16:43:40 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 569
+[04-Nov-2024 16:43:40 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 293
+[04-Nov-2024 16:43:40 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 301
+[04-Nov-2024 16:43:40 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "session_destroy" in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php:573
+Stack trace:
+#0 {main}
+  thrown in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 573
+[04-Nov-2024 16:44:28 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 569
+[04-Nov-2024 16:44:28 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 293
+[04-Nov-2024 16:44:28 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 301
+[04-Nov-2024 17:12:43 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 575
+[04-Nov-2024 17:12:43 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 299
+[04-Nov-2024 17:12:43 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 307
+[04-Nov-2024 17:12:58 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 575
+[04-Nov-2024 17:12:58 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 299
+[04-Nov-2024 17:12:58 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 307
+[04-Nov-2024 17:15:07 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 575
+[04-Nov-2024 17:15:07 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 299
+[04-Nov-2024 17:15:07 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 307
+[04-Nov-2024 17:15:17 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 594
+[04-Nov-2024 17:15:17 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 486
+[04-Nov-2024 17:15:17 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 494
+[04-Nov-2024 17:21:25 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 575
+[04-Nov-2024 17:21:25 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 299
+[04-Nov-2024 17:21:25 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 307
+[04-Nov-2024 17:21:27 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 594
+[04-Nov-2024 17:21:27 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 486
+[04-Nov-2024 17:21:27 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 494
+[04-Nov-2024 17:21:28 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 575
+[04-Nov-2024 17:21:28 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 299
+[04-Nov-2024 17:21:28 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 307
+[04-Nov-2024 17:21:30 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 575
+[04-Nov-2024 17:21:30 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 299
+[04-Nov-2024 17:21:30 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 307
+[04-Nov-2024 17:21:34 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 575
+[04-Nov-2024 17:21:34 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 299
+[04-Nov-2024 17:21:34 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 307
+[04-Nov-2024 17:23:07 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 575
+[04-Nov-2024 17:23:07 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 299
+[04-Nov-2024 17:23:07 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 307
+[04-Nov-2024 17:23:07 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 575
+[04-Nov-2024 17:23:07 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 299
+[04-Nov-2024 17:23:07 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 307
+[04-Nov-2024 17:23:16 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 575
+[04-Nov-2024 17:23:16 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 299
+[04-Nov-2024 17:23:16 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 307
+[04-Nov-2024 17:23:28 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 575
+[04-Nov-2024 17:23:28 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 299
+[04-Nov-2024 17:23:28 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 307
+[04-Nov-2024 17:23:30 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 575
+[04-Nov-2024 17:23:30 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 299
+[04-Nov-2024 17:23:30 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 307
+[04-Nov-2024 17:23:41 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 594
+[04-Nov-2024 17:23:41 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 486
+[04-Nov-2024 17:23:41 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 494
+[04-Nov-2024 17:23:42 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 575
+[04-Nov-2024 17:23:42 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 299
+[04-Nov-2024 17:23:42 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 307
+[04-Nov-2024 17:25:29 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 575
+[04-Nov-2024 17:25:29 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 299
+[04-Nov-2024 17:25:29 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 307
+[04-Nov-2024 17:25:32 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 575
+[04-Nov-2024 17:25:32 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 299
+[04-Nov-2024 17:25:32 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 307
+[04-Nov-2024 17:25:46 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 594
+[04-Nov-2024 17:25:46 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 486
+[04-Nov-2024 17:25:46 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 494
+[04-Nov-2024 17:29:23 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 575
+[04-Nov-2024 17:29:23 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 299
+[04-Nov-2024 17:29:23 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 307
+[04-Nov-2024 17:31:15 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 578
+[04-Nov-2024 17:31:15 America/New_York] PHP Warning:  Undefined array key "dateFilter" in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 198
+[04-Nov-2024 17:31:15 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 301
+[04-Nov-2024 17:31:15 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 309
+[04-Nov-2024 17:32:41 America/New_York] PHP Warning:  Undefined global variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 584
+[04-Nov-2024 17:32:41 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 305
+[04-Nov-2024 17:32:41 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 313
+[04-Nov-2024 17:36:16 America/New_York] PHP Warning:  Undefined variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 588
+[04-Nov-2024 17:36:16 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 305
+[04-Nov-2024 17:36:16 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 313
+[04-Nov-2024 17:36:17 America/New_York] PHP Warning:  Undefined variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 588
+[04-Nov-2024 17:36:17 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 305
+[04-Nov-2024 17:36:17 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 313
+[04-Nov-2024 17:36:29 America/New_York] PHP Warning:  Undefined variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 588
+[04-Nov-2024 17:36:29 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 305
+[04-Nov-2024 17:36:29 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 313
+[04-Nov-2024 17:37:57 America/New_York] PHP Warning:  Undefined variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 588
+[04-Nov-2024 17:37:57 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 305
+[04-Nov-2024 17:37:57 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 313
+[04-Nov-2024 17:37:57 America/New_York] PHP Warning:  Undefined variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 588
+[04-Nov-2024 17:37:57 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 305
+[04-Nov-2024 17:37:57 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 313
+[04-Nov-2024 17:37:57 America/New_York] PHP Warning:  Undefined variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 588
+[04-Nov-2024 17:37:57 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 305
+[04-Nov-2024 17:37:57 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 313
+[04-Nov-2024 17:37:57 America/New_York] PHP Warning:  Undefined variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 588
+[04-Nov-2024 17:37:57 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 305
+[04-Nov-2024 17:37:57 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 313
+[04-Nov-2024 17:37:57 America/New_York] PHP Warning:  Undefined variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 588
+[04-Nov-2024 17:37:57 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 305
+[04-Nov-2024 17:37:57 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 313
+[04-Nov-2024 17:37:57 America/New_York] PHP Warning:  Undefined variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 588
+[04-Nov-2024 17:37:57 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 305
+[04-Nov-2024 17:37:57 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 313
+[04-Nov-2024 17:37:58 America/New_York] PHP Warning:  Undefined variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 588
+[04-Nov-2024 17:37:58 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 305
+[04-Nov-2024 17:37:58 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 313
+[04-Nov-2024 17:38:54 America/New_York] PHP Warning:  Undefined variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 588
+[04-Nov-2024 17:38:54 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 305
+[04-Nov-2024 17:38:54 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 313
+[04-Nov-2024 17:39:09 America/New_York] PHP Warning:  Undefined variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 588
+[04-Nov-2024 17:39:09 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 305
+[04-Nov-2024 17:39:09 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 313
+[04-Nov-2024 17:39:30 America/New_York] PHP Warning:  Undefined variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 588
+[04-Nov-2024 17:39:30 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 305
+[04-Nov-2024 17:39:30 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 313
+[04-Nov-2024 17:51:34 America/New_York] PHP Warning:  Undefined variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 588
+[04-Nov-2024 17:51:34 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 305
+[04-Nov-2024 17:51:34 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 313
+[04-Nov-2024 17:58:47 America/New_York] PHP Warning:  Undefined variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 588
+[04-Nov-2024 17:58:47 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 305
+[04-Nov-2024 17:58:47 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 313
+[04-Nov-2024 18:01:50 America/New_York] PHP Warning:  Undefined variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 588
+[04-Nov-2024 18:01:50 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 305
+[04-Nov-2024 18:01:50 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 313
+[04-Nov-2024 18:06:21 America/New_York] PHP Warning:  Undefined variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 588
+[04-Nov-2024 18:06:21 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 305
+[04-Nov-2024 18:06:21 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 313
+[04-Nov-2024 18:06:50 America/New_York] PHP Warning:  Undefined variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 588
+[04-Nov-2024 18:06:50 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 305
+[04-Nov-2024 18:06:50 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 313
+[04-Nov-2024 18:39:05 America/New_York] PHP Warning:  Undefined variable $dateFilter in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 588
+[04-Nov-2024 18:39:05 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 305
+[04-Nov-2024 18:39:05 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 313
+[05-Nov-2024 14:20:02 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:20:02 America/New_York] PHP Deprecated:  preg_match_all(): Passing null to parameter #2 ($subject) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 240
+[05-Nov-2024 14:20:04 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:20:05 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:20:18 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:20:19 America/New_York] PHP Deprecated:  preg_match_all(): Passing null to parameter #2 ($subject) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 240
+[05-Nov-2024 14:20:19 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:20:20 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:20:21 America/New_York] PHP Deprecated:  preg_match_all(): Passing null to parameter #2 ($subject) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 432
+[05-Nov-2024 14:20:27 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:20:27 America/New_York] PHP Deprecated:  preg_match_all(): Passing null to parameter #2 ($subject) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 240
+[05-Nov-2024 14:20:28 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:20:28 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:20:29 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:20:29 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:20:54 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:20:54 America/New_York] PHP Deprecated:  preg_match_all(): Passing null to parameter #2 ($subject) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 240
+[05-Nov-2024 14:20:55 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:20:55 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:21:06 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:21:08 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:21:08 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:21:23 America/New_York] PHP Deprecated:  preg_match_all(): Passing null to parameter #2 ($subject) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 432
+[05-Nov-2024 14:21:26 America/New_York] PHP Deprecated:  preg_match_all(): Passing null to parameter #2 ($subject) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 432
+[05-Nov-2024 14:22:02 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:22:02 America/New_York] PHP Deprecated:  preg_match_all(): Passing null to parameter #2 ($subject) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 240
+[05-Nov-2024 14:24:47 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:24:47 America/New_York] PHP Deprecated:  preg_match_all(): Passing null to parameter #2 ($subject) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 240
+[05-Nov-2024 14:24:49 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:24:49 America/New_York] PHP Deprecated:  preg_match_all(): Passing null to parameter #2 ($subject) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 240
+[05-Nov-2024 14:25:37 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:25:37 America/New_York] PHP Deprecated:  preg_match_all(): Passing null to parameter #2 ($subject) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 240
+[05-Nov-2024 14:34:51 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:34:51 America/New_York] PHP Deprecated:  preg_match_all(): Passing null to parameter #2 ($subject) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 240
+[05-Nov-2024 14:35:32 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:35:32 America/New_York] PHP Deprecated:  preg_match_all(): Passing null to parameter #2 ($subject) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 240
+[05-Nov-2024 14:38:04 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:38:04 America/New_York] PHP Deprecated:  preg_match_all(): Passing null to parameter #2 ($subject) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 240
+[05-Nov-2024 14:38:37 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:38:37 America/New_York] PHP Deprecated:  preg_match_all(): Passing null to parameter #2 ($subject) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 240
+[05-Nov-2024 14:41:10 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:41:10 America/New_York] PHP Deprecated:  preg_match_all(): Passing null to parameter #2 ($subject) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 240
+[05-Nov-2024 14:42:43 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:42:43 America/New_York] PHP Deprecated:  preg_match_all(): Passing null to parameter #2 ($subject) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 240
+[05-Nov-2024 14:43:15 America/New_York] PHP Deprecated:  preg_match_all(): Passing null to parameter #2 ($subject) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 240
+[05-Nov-2024 14:43:17 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:43:17 America/New_York] PHP Deprecated:  preg_match_all(): Passing null to parameter #2 ($subject) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 240
+[05-Nov-2024 14:43:18 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:43:18 America/New_York] PHP Deprecated:  preg_match_all(): Passing null to parameter #2 ($subject) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 240
+[05-Nov-2024 14:43:18 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:43:18 America/New_York] PHP Deprecated:  preg_match_all(): Passing null to parameter #2 ($subject) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 240
+[05-Nov-2024 14:43:18 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:43:18 America/New_York] PHP Deprecated:  preg_match_all(): Passing null to parameter #2 ($subject) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 240
+[05-Nov-2024 14:43:19 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:43:19 America/New_York] PHP Deprecated:  preg_match_all(): Passing null to parameter #2 ($subject) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 240
+[05-Nov-2024 14:43:19 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:43:19 America/New_York] PHP Deprecated:  preg_match_all(): Passing null to parameter #2 ($subject) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 240
+[05-Nov-2024 14:43:20 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:43:20 America/New_York] PHP Deprecated:  preg_match_all(): Passing null to parameter #2 ($subject) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 240
+[05-Nov-2024 14:43:20 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:43:20 America/New_York] PHP Deprecated:  preg_match_all(): Passing null to parameter #2 ($subject) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 240
+[05-Nov-2024 14:43:28 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:43:28 America/New_York] PHP Deprecated:  preg_match_all(): Passing null to parameter #2 ($subject) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 240
+[05-Nov-2024 14:49:39 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:49:39 America/New_York] PHP Deprecated:  preg_match_all(): Passing null to parameter #2 ($subject) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 240
+[05-Nov-2024 14:52:05 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:52:05 America/New_York] PHP Deprecated:  preg_match_all(): Passing null to parameter #2 ($subject) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 240
+[05-Nov-2024 14:52:05 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:52:05 America/New_York] PHP Deprecated:  preg_match_all(): Passing null to parameter #2 ($subject) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 240
+[05-Nov-2024 14:52:05 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:52:05 America/New_York] PHP Deprecated:  preg_match_all(): Passing null to parameter #2 ($subject) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 240
+[05-Nov-2024 14:52:23 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:52:23 America/New_York] PHP Deprecated:  preg_match_all(): Passing null to parameter #2 ($subject) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 240
+[05-Nov-2024 14:56:35 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:56:35 America/New_York] PHP Deprecated:  preg_match_all(): Passing null to parameter #2 ($subject) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 240
+[05-Nov-2024 14:57:08 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 14:57:08 America/New_York] PHP Deprecated:  preg_match_all(): Passing null to parameter #2 ($subject) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 240
+[05-Nov-2024 15:16:26 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 260
+[05-Nov-2024 15:16:28 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 260
+[05-Nov-2024 15:16:29 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 260
+[05-Nov-2024 15:16:29 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 260
+[05-Nov-2024 15:16:29 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 260
+[05-Nov-2024 15:16:29 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 260
+[05-Nov-2024 15:16:29 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 260
+[05-Nov-2024 15:16:46 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 15:16:46 America/New_York] PHP Deprecated:  preg_match_all(): Passing null to parameter #2 ($subject) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 240
+[05-Nov-2024 15:16:46 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 260
+[05-Nov-2024 15:16:46 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 108
+[05-Nov-2024 15:16:46 America/New_York] PHP Deprecated:  preg_match_all(): Passing null to parameter #2 ($subject) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 240
+[05-Nov-2024 15:16:46 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 260
+[17-Nov-2024 15:56:46 America/New_York] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + array in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php:441
+Stack trace:
+#0 /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php(706): getUserCardioByEmail()
+#1 {main}
+  thrown in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 441
+[17-Nov-2024 17:06:27 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 457
+[17-Nov-2024 17:06:27 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 461
+[17-Nov-2024 17:06:41 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 457
+[17-Nov-2024 17:06:41 America/New_York] PHP Warning:  Undefined variable $startDate in /data/web/CSE442/2024-Fall/cse-442m/Workout_Stats/WorkoutStatsBackend.php on line 461
