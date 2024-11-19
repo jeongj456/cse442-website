@@ -1,0 +1,343 @@
+* {
+  font-family: 'Josefin Sans';
+}
+body { 
+  margin: 0px;
+  font-family: 'Josefin Sans';
+}
+
+.container {
+  /* vh and vw is the screen that you are looking at, not the internet window */
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+/* To fix an elements position according to it's parent, the parent's position has to be relative and the child has to be absolute */
+/* parent --> position: relative;
+  child --> position: absolute; */
+.top-of-page {
+  justify-content: center;
+  display: flex;
+  align-items: center;        /*aligns the div elements to center of cross axis*/
+  background-color: #004d75;
+  height: 88px;
+  text-align: center;
+  font-size: 38px;
+  font-weight: bold;
+  color: white;
+  font-family: 'Josefin Sans';
+}
+
+
+
+.content {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly; /*centers items in this flexbox along its width*/
+  height: 95%;
+  overflow: auto;
+  padding: 0px;
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+.top{
+  /* display: flex to have all the elements in this element to show evenly spaced in the same row */
+  display: flex;
+  position:absolute;
+  justify-content: space-between;
+  margin: 0;
+  padding: 10px;
+  height: 30px;
+  width: 100%;
+  z-index: 10;
+  top: 0;
+}
+
+#search-icon{
+  /* position is relative to the parent */
+  position: relative;
+  top: 3px;
+  font-size: 24px;
+  left: 15px;
+}
+/* When the mouse hovers over the icon, turn the cursor into a pointer and highlight the icon */
+#search-icon:hover{ 
+  color: #006CA1;
+  cursor: pointer;
+}
+#add-post:hover{
+  color: #006CA1;
+  background-color: #006CA1;
+  cursor: pointer;
+}
+
+.SearchBar {
+  display: none;
+  flex-direction: row; /* Stack items vertically */
+  align-items: center;
+  margin-top: 15px;
+  /* The smallest and largest width it can be that depends on the screen size */
+  min-width: 300px;
+  max-width: 600px;
+  margin-left: 15px;
+}
+
+#searchForm {
+  display: flex;
+  width: 100%;
+}
+
+#searchInput {
+  flex: 1;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px 0 0 5px;
+  outline: none;
+}
+
+#searchInput:focus {
+  border-color: #006ca1;
+  box-shadow: 0 0 5px rgba(0, 108, 161, 0.5);
+}
+
+#searchForm button[type="button"] {
+  background-color: #006ca1;
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  /* top, right, bottom, left values */
+  border-radius: 0 5px 5px 0;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#searchForm button[type="button"]:hover {
+  background-color: #004d75;
+}
+
+#clearSearchBtn {
+  background-color: #f1f1f1;
+  color: #333;
+  /* top/bottom and right/left values */
+  padding: 10px 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  width: 75px;
+  margin-top: -15px;
+}
+
+#clearSearchBtn:hover {
+  background-color: #e0e0e0;
+}
+
+
+.made-buttons {
+  border: 1px solid white;
+  background-color: #D9D9D9;
+  border-radius: 10px;
+  padding: 7px;
+  align-content: center;
+  align-items: center;
+  vertical-align: middle;
+  /* color rgb values and the shadow angle */
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  margin: 0px;
+  height: 20px;
+  width: 67px;
+}
+/*:active makes the made-button look like it is getting pressed*/
+.made-buttons:active {
+  -webkit-box-shadow: inset 0px 0px 5px #c1c1c1;
+  -moz-box-shadow: inset 0px 0px 5px #c1c1c1;
+  box-shadow: inset 0px 0px 5px #c1c1c1;
+}
+#add-post {
+  font-family: 'Josefin Sans';
+  position: relative;
+  right: 20px;
+}
+
+/* To have your page disappear at the top as you scroll, set the max height and overflow:scroll(this lets you scroll through overflow) */
+.bottom {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  /* having margin at 0(margin controls where page disappears), use padding to initially have space between the top  */
+  padding: 50px 0px;
+  margin-top: 50px;
+  max-width: 85%;
+  column-gap: 50px;
+  row-gap: 50px;
+  margin-left: 0%;
+  max-height: 110%;
+  overflow-y: scroll;
+  overflow-x: scroll;
+  /* Hide scrollbar for Firefox and Edge */
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+/* Hide scrollbar for Chrome, Safari and Opera */
+.bottom::-webkit-scrollbar {
+  display: none;
+}
+.post-card{
+  width: 200px;
+  border-radius: 10px;
+  background-color: rgba(0, 108, 161, 0.25);
+  height: 400px;
+  width: 300px;
+  box-shadow: 5px 5px 4px rgba(0, 0, 0, 0.25);
+  font-size: 12px;
+  font-weight: 100;
+  overflow: auto;
+  padding: 10px;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  z-index: 5;
+  position: relative;
+}
+
+.info-box::-webkit-scrollbar {
+  display: none;
+  /* For Chrome, Safari, and Opera */
+}
+
+#card-top{
+  display: flex;
+  justify-content: space-between;
+  height: 20px;
+}
+#username{
+  color: #919191;
+  font-family: 'Josefin Sans';
+  font-size: 15px;
+}
+/*-------------------------------------------*/
+.ellipsis-icon::before{
+  color: #555;
+  font-size: 18px;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+}
+.ellipsis-icon{
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.ellipsis-icon:hover {
+  color: #006CA1;
+}
+.dropdown-menu {
+  height: 70px;
+  position: relative;
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+  display: none; /* Hidden by default */
+  margin-top: 25px;
+}
+
+.dropdown-menu p {
+  margin: 0;
+  padding: 10px;
+  cursor: pointer;
+  font-size: 14px;
+  color: #333;
+}
+
+.dropdown-menu p:hover {
+  background-color: #f1f1f1;
+}
+/*-------------------------------------------*/
+#action,
+#editaction{
+  text-align: center;
+  margin: 25px 15px;
+  font-size: 30px;
+  font-family: 'Josefin Sans';
+}
+#card-body{
+  font-family: 'Josefin Sans';
+}
+
+.modal {
+  display: none;
+  /* Hidden by default */
+  position: fixed;
+  /* Sit on top */
+  top: 0;
+  width: 100%;
+  /* Full width */
+  height: 100%;
+  /* Full height */
+  overflow: auto;
+  /* Enable scroll if needed */
+  background-color: rgba(0, 0, 0, 0.8);
+  /* Black w/ opacity */
+  z-index: 100;
+}
+/* Modal content */
+.modal-content {
+  background-color: #fefefe;
+  margin: 10% auto;
+  /* 30% from top, centered */
+  padding: 20px;
+  border-radius: 10px;
+  border: 1px solid #888;
+  width: 80%;
+  /* Could be more or less, depending on screen size */
+  max-width: 600px;
+  /* Maximum width */
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.7);
+  /* Add shadow for a floating effect */
+  text-align: center;
+  /* Center the content */
+}
+
+/* The Close Button */
+.close{
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus{
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* Modal form styling */
+.modal-content form {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  /* Two columns for the form fields */
+  gap: 10px;
+  justify-items: center;
+}
+
+.modal-content form input[type="text"] {
+  width: 90%;
+  padding: 10px;
+  margin: 5px 0;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  white-space: initial;
+}

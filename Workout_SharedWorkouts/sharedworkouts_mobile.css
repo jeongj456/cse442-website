@@ -1,0 +1,820 @@
+* {
+    font-family: 'Josefin Sans';
+  }
+  body { 
+    margin: 0px;
+    font-family: 'Josefin Sans';
+  }
+  
+  .container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+  
+  
+  .top-of-page {
+    justify-content: center;
+    display: flex;
+    align-items: center;        /*aligns the div elements to center of cross axis*/
+    background-color: #004d75;
+    height: 88px;
+    text-align: center;
+    font-size: 26px;
+    font-weight: bold;
+    color: white;
+    font-family: 'Josefin Sans';
+  }
+  
+  
+  
+  .content {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly; /*centers items in this flexbox along its width*/
+    height: 95%;
+    overflow: auto;
+    padding: 0px;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
+  .content::-webkit-scrollbar {
+    display: none;
+  }
+  #title { /*z-index to make title come to the front*/
+    align-items: center;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    font-style: italic;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    width: 100%;
+    height: 9%;
+    margin: 0px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    font-family: 'Josefin Sans';
+  }
+  
+  
+  .top{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    height: 30px;
+    position: absolute;
+    top: 8px;
+    width: 95%;
+    padding: 0px 8px;
+  }
+  .top-incomingworkouts{
+    display: flex;
+    justify-content: right;
+    padding: 10px;
+    height: 30px;
+  }
+  
+  .SearchBar {
+    display: flex;
+    flex-direction: column; /* Stack items vertically */
+    align-items: flex-end;
+    margin-top: 75px;
+    width: 100px;
+    margin-left: -205px;
+  }
+  
+  #searchForm {
+    display: flex;
+    width: 100%;
+  }
+  
+  #searchInput {
+    flex: 1;
+    padding: 10px;
+    font-size: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px 0 0 5px;
+    outline: none;
+  }
+  
+  #searchInput:focus {
+    border-color: #006ca1;
+    box-shadow: 0 0 5px rgba(0, 108, 161, 0.5);
+  }
+  
+  #searchForm button[type="submit"] {
+    background-color: #006ca1;
+    color: white;
+    padding: 10px 20px;
+    font-size: 10px;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  #searchForm button[type="submit"]:hover {
+    background-color: #004d75;
+    
+  }
+  
+  #clearSearchBtn {
+    margin-top: 10px; /* Space between search bar and clear filter button */
+    background-color: #f1f1f1;
+    color: #333;
+    padding: 10px 20px;
+    font-size: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: -5px;
+    margin-right: -50px;
+    width: 93px;
+  }
+  
+  #clearSearchBtn:hover {
+    background-color: #e0e0e0;
+  }
+  
+  /*-------------------------------------------------------------------------------------------------------------------------------------------*/
+  
+  /* All for unit toggle++++++++++++++++++++++++++++++++*/
+  /* The switch - the box around the slider */
+  .switch {
+    position: relative;
+    display: inline-block;
+    width: 45px;
+    height: 20px;
+  }
+  
+  /* Hide default HTML checkbox */
+  .switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+  
+  /* The slider */
+  .slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+    width: 45px;
+  }
+  
+  .slider:before {
+    position: absolute;
+    content: "";
+    height: 12px;
+    width: 12px;
+    left: 4px;
+    bottom: 4px;
+    background-color: rgba(0, 108, 161, 0.75);
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
+  
+  input:checked + .slider {
+    background-color: white;
+  }
+  
+  input:focus + .slider {
+    box-shadow: 0 0 1px #2196F3;
+  }
+  
+  input:checked + .slider:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+  }
+  
+  /* Rounded sliders */
+  .slider.round {
+    border-radius: 34px;
+  }
+  
+  .slider.round:before {
+    border-radius: 50%;
+  }
+  label {
+    font-size: 16px;
+    text-align: center;
+    vertical-align: bottom;
+  }
+  
+  #units {
+    min-width: 125px;
+    height: 20px;
+    border: 4px solid #70A84A;
+    border-radius: 20px;
+    text-align: center;
+    align-content: center;
+    font-size: 10px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    background-color: rgba(0, 108, 161, 0.25);
+    padding: 3px;
+    font-weight: bold;
+  }
+  /*++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+  
+  .made-buttons {
+    background-color: #D9D9D9;
+    border-radius: 10px;
+    padding: 7px;
+    align-content: center;
+    align-items: center;
+    vertical-align: middle;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+    margin: 0px 0px 0px 3%;
+    height: 20px;
+    width: 90px;
+  }
+  /*:active makes the made-button look like it is getting pressed*/
+  .made-buttons:active {
+    -webkit-box-shadow: inset 0px 0px 5px #c1c1c1;
+    -moz-box-shadow: inset 0px 0px 5px #c1c1c1;
+    box-shadow: inset 0px 0px 5px #c1c1c1;
+  }
+  
+  #incoming {
+    font-family: 'Josefin Sans';
+    font-size: 10px;
+  }
+  
+  
+  .bottom {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0px;
+    display: flex;
+    height: 95%;
+    position: absolute;
+    overflow: auto;
+    margin-top: 300px;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
+  .bottom::-webkit-scrollbar {
+    display: none;
+  }
+  
+  .workout-list {
+    width: 95vw;
+  }
+  
+  .workout {
+    text-align: center;
+    margin: 0px;
+    flex: 1 1 calc(33% - 20px);
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    /* Centers the workout inside the flex container */
+    overflow-y: hidden;
+  }
+  
+  
+  .individualWorkout {
+    border-radius: 20px;
+    height: 200px;
+    width: 250px;
+    outline: 2px solid #333;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: rgba(191, 218, 231, 255);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    position: relative; /* Make this relative so the DeleteButton can be positioned inside */
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    margin: 50px;
+  }
+  
+  .individualWorkout::-webkit-scrollbar {
+    display: none;
+    /* For Chrome, Safari, and Opera */
+  }
+  
+  .WorkoutList {
+    padding-top: 10%;
+    padding-left: 5%;
+    width: 20%;
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    /* Ensures text inside the box is centered */
+  }
+  
+  hr {
+    border: none;
+    height: 2px; /* Adjust thickness */
+    background-color: #004d75; /* Set the blue color */
+    margin: 0; /* Remove margin if necessary */
+  }
+  
+  .WorkoutList ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  .WorkoutList li {
+    padding-bottom: 2%;
+    margin-bottom: 5px;
+    /* Adds space between workout items */
+    text-align: center;
+    /* Aligns each list item in the center */
+    white-space: nowrap; /* Prevent text from wrapping */
+    overflow-wrap: break-word; /* Ensure compatibility with different browsers */
+  }
+  
+  .VerticalEllipses {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+  }
+  
+  .VerticalEllipses .fa-ellipsis-v {
+    font-size: 20px;
+    color: #333;
+  }
+  
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+    min-width: 120px;
+    z-index: 1;
+    right: 0;
+  }
+  
+  .dropdown-content ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .dropdown-content li {
+    padding: 8px 16px;
+    cursor: pointer;
+  }
+  
+  .dropdown-content li:hover {
+    background-color: #f1f1f1;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+    min-width: 120px;
+    z-index: 1;
+    right: 0;
+  }
+  
+  .dropdown-content ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .dropdown-content li {
+    padding: 8px 16px;
+    cursor: pointer;
+  }
+  
+  .dropdown-content li:hover {
+    background-color: #f1f1f1;
+  }
+  
+  
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+    min-width: 120px;
+    z-index: 1;
+    right: 0;
+    top: 20px;
+  }
+  
+  .dropdown-content ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .dropdown-content li {
+    padding: 8px 16px;
+    cursor: pointer;
+  }
+  
+  .dropdown-content li:hover {
+    background-color: #f1f1f1;
+  }
+  
+  #logDataModal {
+    display: none; /* Hide modal initially */
+    position: fixed;
+    z-index: 100;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.4);
+    
+    display: none;
+    position: absolute;
+    background-color: white;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+    min-width: 120px;
+    z-index: 1;
+    right: 0;
+    top: 20px;
+  }
+  
+  .dropdown-content ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .dropdown-content li {
+    padding: 8px 16px;
+    cursor: pointer;
+  }
+  
+  .dropdown-content li:hover {
+    background-color: #f1f1f1;
+  }
+  
+  #logDataModal {
+    display: none; /* Hide modal initially */
+    position: fixed;
+    z-index: 100;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.4);
+    
+  }
+  
+  .logDataClose,
+  .closeBlockModal{
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  .logDataClose:hover,
+  .logDataClose:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+  }
+  #logWorkoutDetails {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    max-height: 400px;
+    overflow-y: auto;
+    width: 100%;
+  }
+  
+  /* Save button styling */
+  #saveLogDataBtn {
+    background-color: #006ca1;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 20px;
+  }
+  
+  #saveLogDataBtn:hover {
+    background-color: #004d75;
+  }
+  
+  .modal-content-logWorkout {
+    background-color: #fefefe;
+    margin: 10% auto;
+    /* 10% from top, centered */
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #888;
+    width: 80%;
+    /* Could be more or less, depending on screen size */
+    max-width: 600px;
+    /* Maximum width */
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.7);
+    /* Add shadow for a floating effect */
+    text-align: center;
+    /* Center the content */
+  }
+  
+  
+  .modal-content-logWorkout form {
+    grid-template-columns: 1fr 1fr;
+    /* Two columns for the form fields */
+    gap: 10px;
+    justify-items: center;
+  }
+  
+  .modal-content-logWorkout form input[type="text"] {
+    width: 90%;
+    padding: 10px;
+    margin: 5px 0;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* Submit button styling */
+  .modal-content-logWorkout form button[type="submit"] {
+    grid-column: span 2;
+    /* Make the button span both columns */
+    background-color: #006ca1;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .modal-content-logWorkout form button[type="submit"]:hover {
+    background-color: #004d75;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    max-height: 400px;
+    overflow-y: auto;
+    width: 100%;
+  }
+  
+  /* Save button styling */
+  #saveLogDataBtn {
+    background-color: #006ca1;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 20px;
+  }
+  
+  #saveLogDataBtn:hover {
+    background-color: #004d75;
+  }
+  
+  .modal-content-logWorkout {
+    background-color: #fefefe;
+    margin: 10% auto;
+    /* 10% from top, centered */
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #888;
+    width: 80%;
+    /* Could be more or less, depending on screen size */
+    max-width: 600px;
+    /* Maximum width */
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.7);
+    /* Add shadow for a floating effect */
+    text-align: center;
+    /* Center the content */
+  }
+  
+  
+  .modal-content-logWorkout form {
+    grid-template-columns: 1fr 1fr;
+    /* Two columns for the form fields */
+    gap: 10px;
+    justify-items: center;
+  }
+  
+  .modal-content-logWorkout form input[type="text"] {
+    width: 90%;
+    padding: 10px;
+    margin: 5px 0;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* Submit button styling */
+  .modal-content-logWorkout form button[type="submit"] {
+    grid-column: span 2;
+    /* Make the button span both columns */
+    background-color: #006ca1;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .modal-content-logWorkout form button[type="submit"]:hover {
+    background-color: #004d75;
+  }
+  
+  .workout-row {
+    display: flex;
+    align-items: center;
+    background-color: #f9f9f9;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+    justify-content: space-between;
+  }
+  
+  /* Workout title styling */
+  .workout-row p {
+    font-weight: bold;
+    margin: 0 10px 0 0; /* Add margin-right for spacing */
+    text-align: left;
+    min-width: 120px; /* Define minimum width for consistent spacing */
+  }
+  
+  /* Label and input styling for the fields */
+  .workout-row label {
+    font-size: 14px;
+    color: #333;
+    margin-right: 5px;
+  }
+  
+  .workout-row input {
+    width: 60px; /* Define width for inputs to keep them aligned */
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .workout-row input:focus {
+    border-color: #006ca1;
+    box-shadow: 0 0 5px rgba(0, 108, 161, 0.5);
+  }
+  
+  
+  #blockUserModal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    padding-top: 60px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.4);
+  }
+  
+  #blockUserModal .blockedModal-content {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+    max-width: 400px;
+  }
+  .actionBtns {
+    display: flex;
+    flex-direction: column; /* Stack items vertically */
+    gap: 10px; /* Add space between the buttons */
+    align-items: center; /* Center buttons horizontally */
+    margin-left: -80px;
+  }
+  
+  
+  /*CHATGPT WROTE THIS BECAUSE I GOT LAZY */
+  
+  #blockUserModal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    padding-top: 60px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.6); /* Darken the background */
+  }
+  
+  /* Modal content box styling */
+  #blockUserModal .blockedModal-content {
+    background-color: #ffffff;
+    margin: auto;
+    padding: 20px;
+    border: none;
+    width: 80%;
+    max-width: 400px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+  }
+  
+  /* Close button styling */
+  .closeBlockModal {
+    color: #aaa;
+    float: right;
+    font-size: 24px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  .closeBlockModal:hover {
+    color: #000;
+  }
+  
+  /* Title styling */
+  #blockUserModal h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  /* Form styling */
+  #blockUserForm {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+  }
+  
+  /* Input styling */
+  #blockUserForm input[type="text"] {
+    width: 80%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+  }
+  
+  #blockUserForm input[type="text"]:focus {
+    border-color: #004d75;
+    box-shadow: 0 0 5px rgba(0, 77, 117, 0.3);
+  }
+  
+  /* Button styling */
+  #blockUserForm button[type="submit"] {
+    background-color: #006ca1;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  #blockUserForm button[type="submit"]:hover {
+    background-color: #004d75;
+  }
+  
+  
+  
+  /* THIS IS THE END OF WHAT CHATGPT WROTE */
